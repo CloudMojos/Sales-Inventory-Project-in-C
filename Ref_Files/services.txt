@@ -1,0 +1,6 @@
+02.00	Document Printing	page
+69.42	Image Printing	page
+10.00	Scanning	page
+34.00	Typing	page
+100.00	Shoulder Massage	service
+1500.00	Strip	article

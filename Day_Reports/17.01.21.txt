@@ -1,0 +1,13 @@
+| Document Printing |	| 25       |	| 50.00    | 
+| Document Printing |	| 10       |	| 20.00    | 
+| Document Printing |	| 3        |	| 7.50     | 
+| Image Printing    |	| 2        |	| 24.00    | 
+| Image Printing    |	| 3        |	| 36.00    | 
+| Image Printing    |	| 2        |	| 20.00    | 
+| Scanning          |	| 5        |	| 25.00    | 
+| Scanning          |	| 2        |	| 138.00   | 
+| Image Printing    |	| 4        |	| 40.00    | 
+| Scanning          |	| 6        |	| 60.00    | 
+| Typing            |	| 4        |	| 60.00    | 
+| Typing            |	| 40       |	| 600.00   | 
+| Shoulder Massage  |	| 500      |	| 50000.00 | 

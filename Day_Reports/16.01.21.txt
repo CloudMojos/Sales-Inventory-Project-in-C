@@ -1,0 +1,5 @@
+| Document Printing |	| 50       |	| 100.00   |
+| Document Printing |	| 500      |	| 1000.00  |
+| Burger            |	| 30       |	| 450.00   |
+| Burger            |	| 60       |	| 900.00   | 
+| Scanning          |	| 30       |	| 300.00   | 

@@ -1,0 +1,5 @@
+Normal Transaction
+Advanced Transaction
+Generate Report
+File Management
+Quit Program

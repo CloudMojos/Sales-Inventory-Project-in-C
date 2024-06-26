@@ -1,0 +1,10 @@
+12	24.000000	Document Printing
+4	40.000000	Scanning
+2	3000.000000	Strip
+1	10.000000	Scanning
+46	92.000000	Document Printing
+2	20.000000	Scanning
+13	26.000000	Document Printing
+6	12.000000	Document Printing
+20	200.000000	Scanning
+12	833.039978	Image Printing

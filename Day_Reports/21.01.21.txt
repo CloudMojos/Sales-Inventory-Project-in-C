@@ -1,0 +1,14 @@
+| Scanning          |	| 6        |	| 60.00    | 
+| Image Printing    |	| 5        |	| 347.10   | 
+| Document Printing |	| 12       |	| 24.00    | 
+| Image Printing    |	| 123      |	| 8538.66  | 
+| Document Printing |	| 12       |	| 24.00    | 
+| Scanning          |	| 4        |	| 40.00    | 
+| Strip             |	| 2        |	| 3000.00  | 
+| Scanning          |	| 1        |	| 10.00    | 
+| Document Printing |	| 46       |	| 92.00    | 
+| Scanning          |	| 2        |	| 20.00    | 
+| Document Printing |	| 13       |	| 26.00    | 
+| Document Printing |	| 6        |	| 12.00    | 
+| Scanning          |	| 20       |	| 200.00   | 
+| Image Printing    |	| 12       |	| 833.04   | 
